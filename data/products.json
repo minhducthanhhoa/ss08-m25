@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "product_name": "Cam",
+        "price": 20000
+    },
+    {
+        "id": 2,
+        "product_name": "Táo",
+        "price": 40000
+    },
+    {
+        "id": 3,
+        "product_name": "Nho",
+        "price": 50000
+    }
+]
