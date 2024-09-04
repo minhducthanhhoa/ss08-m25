@@ -10,11 +10,6 @@ let users = [
         id: 2,
         user_name: "huệ",
         age: 30
-    },
-    {
-        id: 3,
-        user_name: "nhung",
-        age: 25
     }
 ]
 
